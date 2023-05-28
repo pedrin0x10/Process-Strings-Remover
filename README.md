@@ -1,6 +1,6 @@
 # String Cleaner
 
-![Project Demo](https://cdn.discordapp.com/attachments/1104551977557426207/1112474383055855676/2023-05-28_16-48-55.mp4)
+![Project Demo](https://streamable.com/w61b4x)
 
 Brief description of the project in VC++.
 
