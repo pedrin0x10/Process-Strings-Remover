@@ -1,6 +1,7 @@
 # String Cleaner
 
-![Project Demo](https://streamable.com/w61b4x)
+[![Project Demo](https://streamable.com/42sc71)](https://streamable.com/42sc71)
+
 
 Brief description of the project in VC++.
 
